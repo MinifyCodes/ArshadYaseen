@@ -1,3 +1,7 @@
+* {
+    font-family : 'campton';
+}
+
 @font-face{
     src: url('fonts/campton-bold.otf');
     font-family: 'campton';
